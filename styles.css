@@ -1,0 +1,9 @@
+/* Your CSS rules go here */
+
+body { font-family: 'Calibri'; }
+.fa-amazon { color: red; }
+.jumbotron {
+  background-image: url("https://c2.staticflickr.com/4/3711/10463809686_8666c4f4b4_b.jpg");
+  background-size: cover;
+  color: white;
+}
